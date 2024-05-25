@@ -1,5 +1,11 @@
 # Face Recognition Using Python for Windows
 
+## Table of Content
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Introduction
 This repository contains a project for Face Detection and Face Recognition using Python 3.11. The project is designed to recognize and identify individuals based on their facial features.
 
@@ -22,5 +28,15 @@ pip install -r requirements.txt
 9. Add sample data to the `crime_history_samples.csv` file. The names mentioned in the first column of the CSV should match with the names of the individuals in the `known_persons` directory.
 10. Run the `capture_faces.py` script by executing the command `python capture_faces.py` in the terminal.
 
-### Caution
+## Caution
 - Only use `.jpg` or `.png` pictures.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.  
+Feel free to customize this README.md file to provide more specific details about your project.  
+Let me know if there's anything else I can help you with!  
